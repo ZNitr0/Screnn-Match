@@ -1,1 +1,0 @@
-nome='Mad Max', Ano de Lancamento=1979, duração: 88 minutos
